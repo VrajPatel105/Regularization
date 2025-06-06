@@ -1,5 +1,5 @@
 # Regularization
-Regularization in detail
+Regularization in detail  
 
 This contains:
 Regularization and it's types:
